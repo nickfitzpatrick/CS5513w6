@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Dan Danielson",
+        "profession": "Software Engineer",
+        "school": "Stanford University",
+        "hobby": "Hiking"
+    },
+    {
+        "name": "Alex Johnson",
+        "profession": "Marketing Manager",
+        "school": "University of California, Berkeley",
+        "hobby": "Photography"
+    },
+    {
+        "name": "Maria Sanchez",
+        "profession": "Graphic Designer",
+        "school": "Savannah College of Art and Design",
+        "hobby": "Painting"
+    },
+    {
+        "name": "Bob Harrison",
+        "profession": "Accountant",
+        "school": "University of Illinois",
+        "hobby": "Golf"
+    },
+    {
+        "name": "Samantha Brown",
+        "profession": "Journalist",
+        "school": "New York University",
+        "hobby": "Writing"
+    },
+    {
+        "name": "Jessica Lee",
+        "profession": "Lawyer",
+        "school": "Harvard Law School",
+        "hobby": "Reading"
+    },
+    {
+        "name": "Michael Thompson",
+        "profession": "Civil Engineer",
+        "school": "University of Southern California",
+        "hobby": "Cycling"
+    },
+    {
+        "name": "Emily Nguyen",
+        "profession": "Data Scientist",
+        "school": "Massachusetts Institute of Technology",
+        "hobby": "Cooking"
+    },
+    {
+        "name": "David Miller",
+        "profession": "Teacher",
+        "school": "University of Texas",
+        "hobby": "Guitar"
+    },
+    {
+        "name": "Anna Wilson",
+        "profession": "Psychologist",
+        "school": "University of Michigan",
+        "hobby": "Gardening"
+    },
+    {
+        "name": "James O'Connor",
+        "profession": "Architect",
+        "school": "Princeton University",
+        "hobby": "Photography"
+    },
+    {
+        "name": "Rachel Patel",
+        "profession": "Doctor",
+        "school": "Johns Hopkins University",
+        "hobby": "Tennis"
+    },
+    {
+        "name": "Ryan Green",
+        "profession": "Pilot",
+        "school": "Embry-Riddle Aeronautical University",
+        "hobby": "Fishing"
+    },
+    {
+        "name": "Sophia Carter",
+        "profession": "Fashion Designer",
+        "school": "Parsons School of Design",
+        "hobby": "Sketching"
+    },
+    {
+        "name": "Tyler Young",
+        "profession": "Mechanical Engineer",
+        "school": "Purdue University",
+        "hobby": "Woodworking"
+    },
+    {
+        "name": "Olivia Adams",
+        "profession": "Nurse",
+        "school": "University of Pennsylvania",
+        "hobby": "Yoga"
+    },
+    {
+        "name": "Matthew King",
+        "profession": "Entrepreneur",
+        "school": "University of Chicago",
+        "hobby": "Running"
+    },
+    {
+        "name": "Chloe Rivera",
+        "profession": "Chef",
+        "school": "Culinary Institute of America",
+        "hobby": "Traveling"
+    },
+    {
+        "name": "William Scott",
+        "profession": "Software Developer",
+        "school": "University of Washington",
+        "hobby": "Video Games"
+    },
+    {
+        "name": "Zoe Martinez",
+        "profession": "Veterinarian",
+        "school": "Cornell University",
+        "hobby": "Horseback Riding"
+    }
+]

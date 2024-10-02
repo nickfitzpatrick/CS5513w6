@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Dan Danielson",
+        "email": "dan1234@example.com",
+        "phone": "707-332-3165",
+        "birthdate": "11/17/1992",
+        "id": 1
+    },
+    {
+        "name": "Alex Johnson",
+        "email": "alex.johnson@example.com",
+        "phone": "213-555-8239",
+        "birthdate": "05/21/1985",
+        "id": 2
+    },
+    {
+        "name": "Maria Sanchez",
+        "email": "maria.sanchez@example.com",
+        "phone": "312-478-1265",
+        "birthdate": "03/15/1990",
+        "id": 3
+    },
+    {
+        "name": "Bob Harrison",
+        "email": "bob.harrison12@example.com",
+        "phone": "914-678-4521",
+        "birthdate": "07/09/1988",
+        "id": 4
+    },
+    {
+        "name": "Samantha Brown",
+        "email": "sam.brown987@example.com",
+        "phone": "408-987-4567",
+        "birthdate": "02/27/1993",
+        "id": 5
+    },
+    {
+        "name": "Jessica Lee",
+        "email": "jessica.lee@example.com",
+        "phone": "516-334-2244",
+        "birthdate": "12/11/1991",
+        "id": 6
+    },
+    {
+        "name": "Michael Thompson",
+        "email": "mike.t@example.com",
+        "phone": "801-332-6789",
+        "birthdate": "08/19/1987",
+        "id": 7
+    },
+    {
+        "name": "Emily Nguyen",
+        "email": "emily.nguyen@example.com",
+        "phone": "720-222-9183",
+        "birthdate": "10/25/1995",
+        "id": 8
+    },
+    {
+        "name": "David Miller",
+        "email": "d.miller@example.com",
+        "phone": "503-555-7691",
+        "birthdate": "09/06/1992",
+        "id": 9
+    },
+    {
+        "name": "Anna Wilson",
+        "email": "anna.wilson23@example.com",
+        "phone": "847-777-1039",
+        "birthdate": "01/29/1994",
+        "id": 10
+    },
+    {
+        "name": "James O'Connor",
+        "email": "james.oconnor@example.com",
+        "phone": "602-333-7292",
+        "birthdate": "06/14/1986",
+        "id": 11
+    },
+    {
+        "name": "Rachel Patel",
+        "email": "rachel.patel@example.com",
+        "phone": "631-987-3459",
+        "birthdate": "03/04/1990",
+        "id": 12
+    },
+    {
+        "name": "Ryan Green",
+        "email": "ryan.green01@example.com",
+        "phone": "559-432-9876",
+        "birthdate": "11/23/1989",
+        "id": 13
+    },
+    {
+        "name": "Sophia Carter",
+        "email": "sophia.carter@example.com",
+        "phone": "718-654-8765",
+        "birthdate": "05/10/1995",
+        "id": 14
+    },
+    {
+        "name": "Tyler Young",
+        "email": "tyler.young@example.com",
+        "phone": "909-333-8123",
+        "birthdate": "09/11/1991",
+        "id": 15
+    },
+    {
+        "name": "Olivia Adams",
+        "email": "olivia.adams@example.com",
+        "phone": "305-555-4356",
+        "birthdate": "04/03/1994",
+        "id": 16
+    },
+    {
+        "name": "Matthew King",
+        "email": "matt.king90@example.com",
+        "phone": "847-456-7893",
+        "birthdate": "12/20/1990",
+        "id": 17
+    },
+    {
+        "name": "Chloe Rivera",
+        "email": "chloe.rivera@example.com",
+        "phone": "714-444-3210",
+        "birthdate": "07/01/1993",
+        "id": 18
+    },
+    {
+        "name": "William Scott",
+        "email": "william.scott@example.com",
+        "phone": "609-321-9874",
+        "birthdate": "10/16/1988",
+        "id": 19
+    },
+    {
+        "name": "Zoe Martinez",
+        "email": "zoe.martinez@example.com",
+        "phone": "917-555-6342",
+        "birthdate": "08/03/1992",
+        "id": 20
+    }
+]
