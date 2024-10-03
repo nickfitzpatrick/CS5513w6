@@ -1,5 +1,5 @@
-import Layout from '../components/layout';
-import { getAllIds, getData } from '../lib/data';
+import Layout from '../../components/layout';
+import { getAllIds, getData } from '../../lib/data-firebase';
 
 // define a getStaticProps() function to have next.js retrieve data to use for the dynamic page
 export async function getStaticProps( { params } ) {
@@ -13,7 +13,7 @@ export async function getStaticProps( { params } ) {
 
 // define a getStaticPaths() function to tell next.js all valid URLs
 export async function getStaticPaths() {
-  const paths = getAllIds();
+  const paths = await getAllIds();
   return {
     paths,
     fallback: false
